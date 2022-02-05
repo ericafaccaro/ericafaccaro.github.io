@@ -233,7 +233,7 @@ nav {
   border-radius: 10px;
   text-align: center;
   margin-top: 50px;
-  width: 300px;
+  width: 260px;
 }
 
 img {
@@ -451,4 +451,12 @@ input[type=text], input[type=email], textarea[type=comment] {
     flex wrap: wrap;
   }
 
+  .card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 50px;
+  width: 300px;
+}
 }
